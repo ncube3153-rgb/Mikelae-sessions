@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/ncube3153-rgb"><img src="https://github.com/https://files.catbox.moe/j4ax2o.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/ncube3153-rgb"><img src="https://github.com/https://files.catbox.moe/oftoa5.jpg" width="250" height="250" alt="Malvin Tech"/></a>
 
    
