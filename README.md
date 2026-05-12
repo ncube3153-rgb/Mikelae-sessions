@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/ncube3153-rgb"><img src="https://github.com/https://files.catbox.moe/j4ax2o.jpg" width="250" height="250" alt="Mikelae ZW"/></a>
+ <a href="https://github.com/ncube3153-rgb"><img src="https://github.com/ncube3153-rgb" width="250" height="250" alt="Mikelae ZW"/></a>
 
    
